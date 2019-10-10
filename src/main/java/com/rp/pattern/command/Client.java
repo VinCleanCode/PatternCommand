@@ -9,5 +9,6 @@ public class Client {
 
         Invoker invoker = new Invoker();
         invoker.setCommand(command);
+        invoker.runCommand();
     }
 }
