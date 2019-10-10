@@ -95,5 +95,3 @@ buildNumber.properties
 
 .idea/
 PatternCommand.iml
-pom.xml
-src/
