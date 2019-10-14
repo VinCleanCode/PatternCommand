@@ -1,4 +1,4 @@
-package com.rp.pattern.command;
+package com.rp.pattern.command.FileSystemExample;
 
 public interface Command {
     public void execute();

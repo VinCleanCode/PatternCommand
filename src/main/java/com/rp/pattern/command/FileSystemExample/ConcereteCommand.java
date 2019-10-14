@@ -1,4 +1,4 @@
-package com.rp.pattern.command;
+package com.rp.pattern.command.FileSystemExample;
 
 public class ConcereteCommand implements Command{
     private Receiver receiver = null;

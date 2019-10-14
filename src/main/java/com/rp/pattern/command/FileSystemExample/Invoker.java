@@ -1,4 +1,4 @@
-package com.rp.pattern.command;
+package com.rp.pattern.command.FileSystemExample;
 
 public class Invoker {
     private Command command = null;
