@@ -1,4 +1,5 @@
-import com.rp.pattern.command.FileSystemExample.Client;
+package com.rp.pattern.command.FileSystemExample;
+
 import org.junit.jupiter.api.Test;
 
 public class RunPatternCommand {
